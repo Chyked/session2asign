@@ -1,0 +1,16 @@
+body {
+background-image: url("clouds.jpg");
+}
+#content{
+	background-color: yellow;
+
+}
+h1{
+	font-size: 32px;
+	background-color: grey;
+}
+#lok, #cok{
+	width: 200px;
+	padding: 10px;
+	float: left
+}

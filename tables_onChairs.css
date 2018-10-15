@@ -1,0 +1,19 @@
+#pek{
+	background-color: orange;
+}
+#lek{
+	background-color: red;
+}
+table{
+	border-spacing: 5px;
+}
+table, th, td{
+	border: double;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 15px;
+}
+th{
+	text-align: left;
+}
